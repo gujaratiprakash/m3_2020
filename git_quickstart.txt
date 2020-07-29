@@ -1,0 +1,39 @@
+Install git bash (OS version 64/32bit)
+https://git-scm.com/downloads
+-> Git-2.28.0-64-bit
+install it
+
+Local System Folder(Directory)
+select your directory path in gitbash
+cd c:/xampp/httdocs/myproject
+
+github login
+https://github.com/
+git config --global user.name "John Doe"
+git config --global user.email "johndoe@example.com"
+
+Create New Repostory
+https://github.com/new
+give your project_name -> new repository
+
+setup your repository in local machine
+git clone https://github.com/gujaratiprakash/studentmanagement.git
+your file have to move or create
+
+move to your working directory
+cd studentmanagement
+
+to check file status
+git status
+
+changes staging(staging)
+git add .
+
+change commit
+git commit -m "first initial setup of project"
+
+push your commit changes
+git push
+
+
+
