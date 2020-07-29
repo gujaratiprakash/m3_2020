@@ -6,3 +6,6 @@ https://docs.github.com/en/github/using-git/why-is-git-always-asking-for-my-pass
 
 Git first commit with config
 https://kbroman.org/github_tutorial/pages/first_time.html
+
+GithubGuide
+https://guides.github.com/
