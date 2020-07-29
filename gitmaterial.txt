@@ -3,3 +3,6 @@ https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 
 Git Documentation
 https://docs.github.com/en/github/using-git/why-is-git-always-asking-for-my-password
+
+Git first commit with config
+https://kbroman.org/github_tutorial/pages/first_time.html
