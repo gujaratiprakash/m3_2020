@@ -1,0 +1,5 @@
+Git Book Reference
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+
+Git Documentation
+https://docs.github.com/en/github/using-git/why-is-git-always-asking-for-my-password
