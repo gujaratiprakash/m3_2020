@@ -9,3 +9,6 @@ https://kbroman.org/github_tutorial/pages/first_time.html
 
 GithubGuide
 https://guides.github.com/
+
+GitCheetsheet
+https://hackr.io/blog/git-cheat-sheet
